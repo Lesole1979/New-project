@@ -6,3 +6,4 @@ git add .
 git commit -m "Initial commit"
 git push -u origin master
 cd-/0acoder/Index.html 
+git add.config.html
